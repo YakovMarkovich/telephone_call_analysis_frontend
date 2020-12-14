@@ -1,0 +1,27 @@
+tr{
+    background-color: whitesmoke;
+    color: darkmagenta;
+}
+th{
+    color: darkgoldenrod;
+}
+
+tr:hover {
+    background-color: blue;
+    cursor: pointer;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin: 0px 10px 10px 10px;
+
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+
+}
+

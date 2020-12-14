@@ -1,0 +1,16 @@
+tr{
+    color: darkseagreen;
+}
+
+tr:hover {
+    background-color: red;
+    cursor: pointer;
+}
+
+td, th {
+    border: 1px solid blanchedalmond;
+    text-align: left;
+    padding: 8px;
+}
+
+
